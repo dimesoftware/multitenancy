@@ -38,7 +38,7 @@
   </PropertyGroup>    
   <ItemGroup>
     <PackageReference Include="Dime.System" Version="1.0.5" />
-    <PackageReference Include="Microsoft.Owin" Version="4.1.0" />
+    <PackageReference Include="Microsoft.Owin" Version="4.1.1" />
     <PackageReference Include="Owin" Version="1.0" />
   </ItemGroup>
   <ItemGroup>
